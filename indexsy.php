@@ -1,1 +1,1 @@
-document.write('<iframe src="https://cdn.jsdelivr.net/gh/xinxin2023747/html@main/indexsy.html" width="100%" height="2800" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>')
+ < iframe src = “https://cdn.jsdelivr.net/gh/xinxin2023747/html@main/indexsy.html” 宽度= “100％” 高度= “2800”   frameborder = “无” 边框= “0”    marginwidth = “0”     marginheight = “0” 滚动= “否”   < / iframe > 
